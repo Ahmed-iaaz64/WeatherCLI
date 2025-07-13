@@ -61,4 +61,4 @@ print(data["days"][0]["tempmax"])
 
 ## Author
 
-Made by [Your Name]
+Made by ahmed iaaz
