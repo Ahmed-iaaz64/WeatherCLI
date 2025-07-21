@@ -1,6 +1,7 @@
 # ☁️ WeatherCLI
 
 **WeatherCLI** is a Python script that fetches weather data from the Visual Crossing API. It supports dynamic and custom date ranges, and uses Redis to cache results for 5 minutes.
+Made for [roadmap.sh]https://roadmap.sh/projects/weather-api-wrapper-service
 
 ---
 
